@@ -20,10 +20,12 @@ author: Genome Standards Consortium
 
 navbar-links:
   About: "about"
-  Resources:
-    - Map: "map"
-    - Methodology: "https://www.markdowntutorial.com/"
-  Posts: ""
+  Sampling:
+    #    - Map: "map"
+    - Methods: "methods"
+    - 2016: "2016"
+    - 2022: "2022"
+  Crete: "crete"
 
 ################
 # --- Logo --- #
@@ -93,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
