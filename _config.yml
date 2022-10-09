@@ -19,11 +19,11 @@ author: Genome Standards Consortium
 ###############################################
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Map: "map"
+    - Methodology: "https://www.markdowntutorial.com/"
+  Posts: ""
 
 ################
 # --- Logo --- #
@@ -285,6 +285,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-leaflet
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
