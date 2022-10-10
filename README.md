@@ -1,6 +1,5 @@
 # Island Sampling Day 
 
-
 # Crete
 Crete is consindered a “miniature continent” and a hotspot for biodiversity with 
 complex geodiversity, has been studied extensively regarding its ecotopes 
