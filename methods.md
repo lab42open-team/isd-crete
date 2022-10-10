@@ -61,7 +61,8 @@ Each team fills the following metadata form:
 Each team is provided with the following materials
 
 1. Logsheets (1/site)
-2. 200 ml 15% hydrogen peroxide for sterilization (1 bottle)
+2. 200 ml 15% hydrogen peroxide for sterilization (1 bottle). This sterilizer 
+is used because alchool with fire on field is dangerous to start a fire.
 3. 50 ml Falcon tubes (6/site)
 4. Plastic bags, to store falcon tubes (with soil) inside (2/site)
 5. Plastic bag for plant collection (2/site)
